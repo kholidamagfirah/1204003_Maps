@@ -1,0 +1,2 @@
+rootProject.name = "Precise And Approximate Location"
+include ':app'
